@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CoreIOC</name>
+    </assembly>
+    <members>
+        <member name="M:CoreIOC.Controllers.AutoDIController.GetPersonList">
+            <summary>
+            Auto属性注入
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:CoreIOC.Controllers.AutoDIController.GetPersonListByStructure">
+            <summary>
+            Auto构造注入
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:CoreIOC.Controllers.DITestController.GetLifeCycle(CoreIOC.Services.ITestService)">
+            <summary>
+            作用域生命周期
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:CoreIOC.Extensions.AOPTest.Intercept(Castle.DynamicProxy.IInvocation)">
+            <summary>
+            查看更多 https://docs.autofac.org/en/latest/advanced/interceptors.html
+            </summary>
+            <param name="invocation"></param>
+        </member>
+        <member name="M:CoreIOC.Startup.ConfigureContainer(Autofac.ContainerBuilder)">
+            <summary>
+            Autofac
+            </summary>
+            <param name="builder"></param>
+        </member>
+        <member name="P:CoreIOC.Startup.AutofacContainer">
+            <summary>
+            Autofac 容器
+            </summary>
+        </member>
+    </members>
+</doc>

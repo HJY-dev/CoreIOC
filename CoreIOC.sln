@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreIOC", "CoreIOC.csproj", "{7906DD06-FD98-4F80-A242-F4ADA797E813}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7906DD06-FD98-4F80-A242-F4ADA797E813}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7906DD06-FD98-4F80-A242-F4ADA797E813}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7906DD06-FD98-4F80-A242-F4ADA797E813}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7906DD06-FD98-4F80-A242-F4ADA797E813}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAA64BEC-D47A-40EA-A2D2-1589DAAF02AC}
+	EndGlobalSection
+EndGlobal
